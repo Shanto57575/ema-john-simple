@@ -32,13 +32,12 @@
 }
 
 .cart-btn {
-    background-color: coral;
-    color: #fff;
+    background-color: rgb(123, 206, 123);
     width: 100%;
     position: absolute;
     bottom: 0;
 }
 
 .cart-btn:hover {
-    background-color: orangered;
+    background-color: greenyellow;
 }
